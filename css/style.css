@@ -13,3 +13,17 @@ header {
     bottom: 5%;
     left: 1%;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+#booleaners{
+    color: aqua;
+}
+
+.crediti{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(155, 155, 155);
+}

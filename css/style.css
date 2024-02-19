@@ -31,3 +31,20 @@ h1 {
 .highlighted{
     background-color: yellow;
 }
+
+table{
+    width: 100%;
+    border-spacing: 0;
+}
+
+#table-head{
+    background-color: darkcyan;
+}
+
+tr:nth-child(odd) {
+    background-color: #D6EEEE;
+}
+
+#first-col, #second-col{
+    width: 25%;
+}

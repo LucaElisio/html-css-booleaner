@@ -48,3 +48,27 @@ tr:nth-child(odd) {
 #first-col, #second-col{
     width: 25%;
 }
+
+h3{
+    color: brown;
+}
+
+#mightlike-photo{
+    background-image: url(../img/monitor.jpg);
+    width: 20%;
+    height: 200px;
+    text-align: center;
+}
+
+#mightlike-photo2{
+    background-image: url(../img/graph.jpg);
+    width: 20%;
+    height: 200px;
+    text-align: center;
+}
+
+.product-name{
+    color: white;
+    font-weight: bold;
+    
+}
